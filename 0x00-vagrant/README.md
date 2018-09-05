@@ -1,0 +1,1 @@
+Project discusses how to use Vagrant to initialize a virtual box to run Ubuntu and test projects on.
